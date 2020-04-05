@@ -54,7 +54,7 @@ if(!empty($_POST['send1'])){
   </head>
   <style type="text/css">
         html{
-            background-color:#69AF54;
+            background-color:#feb72b;
         }
         body{
             background:none;
